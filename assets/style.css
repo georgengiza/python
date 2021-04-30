@@ -1,0 +1,63 @@
+html{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#header {
+    font-size:1vw;
+}
+
+#header_text{
+    color: rgba(255, 255, 255, 0.89);
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: left;
+    margin:0 auto;
+    padding-top: 10px;
+    font-family: Arial;
+}
+
+#my_tab{
+    padding: 10px;
+    /*font-size: 1vw;*/
+    font-size: 18px;
+    font-family: Arial;
+}
+
+.with_padding_top{
+    padding-top: 40px;
+}
+
+/*#dfi_div1{*/
+/*    padding-top: 40px;*/
+/*}*/
+
+#dfi_div2{
+    padding-top: 15px;
+}
+
+/*#outr-top{*/
+/*    padding-top: 40px;*/
+/*}*/
+
+#mydropdown{
+    /*padding-left: 100px;*/
+    /*font-size: 0.9vw;*/
+    font-size: 12px;
+    padding-left: 80px;
+}
+
+.dropdown_single_row{
+    padding-top: 40px;
+    /*width: 75%;*/
+    /*float: right;*/
+    /*display: inline-block*/
+}
+
+.my_pad{
+    padding-top: 20px;
+}
+.modebar{
+      display: none !important;
+}
